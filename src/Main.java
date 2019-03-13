@@ -9,15 +9,15 @@ public class Main{
         ab.insere(6);
         ab.insere(17);
         ab.insere(12);
-        //ab.insere(25);
+        ab.insere(25);
 
-        System.out.println("-------------------------------------------------------");
-        System.out.println("Em Ordem");
-        ab.percorre(new EmOrdem());
+        //System.out.println("-------------------------------------------------------");
+        //System.out.println("Em Ordem");
+        //ab.percorre(new EmOrdem());
 
-        System.out.println("-------------------------------------------------------");
-        System.out.println("Profundidade");
-        ab.percorre(new Profundidade());
+        //System.out.println("-------------------------------------------------------");
+        //System.out.println("Profundidade");
+        //ab.percorre(new Profundidade());
 
         System.out.println("-------------------------------------------------------");
         System.out.println("Largura");

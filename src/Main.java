@@ -22,5 +22,9 @@ public class Main{
         System.out.println("-------------------------------------------------------");
         System.out.println("Largura");
         ab.percorre(new Largura());
+
+        System.out.println("-------------------------------------------------------");
+        System.out.println("Remover");
+        ab.remove(7);
     }
 }

@@ -16,7 +16,7 @@ public class ArvoreBinaria{
     }
 
     public void remove(int value){
-
+        Remover.remover(raiz, value);
     }
 
     public void percorre(IPercorre metodo){

@@ -24,7 +24,10 @@ public class Main{
         ab.percorre(new Largura());
 
         System.out.println("-------------------------------------------------------");
-        System.out.println("Remover");
-        ab.remove(7);
+        ab.remove(17);
+
+//        System.out.println("-------------------------------------------------------");
+//        System.out.println("Largura");
+//        ab.percorre(new Largura());
     }
 }

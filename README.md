@@ -1,6 +1,5 @@
-# ArvoreBinariaIA
-Exercicio 1 - IA
+# Exercicio 1 - IA
 
--- Desenvolvido por Gabriel Civinski e William Lohn.
--- Centro Universitário de Brusque - UNIFEBE
+-- Desenvolvido por Gabriel Civinski e William Lohn. <br>
+-- Centro Universitário de Brusque - UNIFEBE <br>
 -- Disciplina de Inteligência Artificial
